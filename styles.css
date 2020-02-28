@@ -1,0 +1,127 @@
+body{
+  color:#40514E;
+  margin:0;
+  font-family: 'Work Sans', serif;
+  line-height:1.5;
+}
+
+hr{
+  background-color: #EAF6F6;
+  border-color: #596157;
+  border-width: thick;
+  border-style: none none dotted none;
+  height: 0; width: 2%;
+}
+
+h1{
+  color:#66BFBF;
+  line-height:2;
+  margin: 50px auto 0 auto;
+  font-size:500%;
+  font-family: 'Sacramento', serif;
+  position:relative;
+  top:40%;}
+
+  h2{
+    font-size:2.5rem;
+    color:#66BFBF;
+  }
+
+h3{
+  color:#11999E;
+}
+
+a{
+  color:#11999E;
+}
+p{
+  font-size:1rem;
+  font-weight:500;
+}
+
+a:hover{
+  color:#EAF6F6;
+}
+.skill-row{
+  width:50%;
+  margin:75px auto 75px auto;
+  text-align:left;
+  line-height: 2;
+}
+
+.ryanpic{
+  display:block;
+  margin:auto;
+  position:static;
+  border-radius:60%;
+  height:200px;
+  width:200px;
+}
+
+.top {
+  padding-top:100px;
+    text-align:center;
+    background-color:#f1f3f4;
+   display:block;}
+
+.mountain{
+  margin-bottom:30px;
+}
+.left-cloud{
+  position:absolute;
+  left: 250px;
+}
+
+.right-cloud{
+  position:absolute;
+  right: 250px;
+}
+
+.middle-container{
+  background-color:#f1f3f4;
+  text-align:center;
+}
+
+.bottom-container{
+  display:block;
+  padding:20px;
+  background-color:#66BFBF;
+  text-align:center;
+}
+
+.contact-me{
+  line-height:2;
+  padding-bottom:20px;
+}
+.risk-img{
+  border-radius:55%;
+  width:25%;
+  float:right;
+  margin-left:30px;
+}
+
+.coding{
+  margin-right:30px;
+  border-radius:50%;
+  width:25%;
+  float:left;
+}
+
+.developer-text{
+  font-weight:700;
+}
+
+.copyright{
+  color:#EAF6F6;
+  font-size:.8rem;
+}
+
+.intro{
+  width:30%;
+  text-align:center;
+  margin:auto;
+}
+
+.footer-link{
+  text-decoration:none;
+}
